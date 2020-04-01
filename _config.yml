@@ -2,5 +2,5 @@ theme: jekyll-theme-slate
 title: FriFaktura
 description: Fritt faktureringprogram for små og mellomstore bedrifter, lag og organisasjoner.
 github:
-  repository_url: https://github.com/frifaktura
+  repository_url: https://github.com/frifaktura/frifaktura
   
