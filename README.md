@@ -1,4 +1,4 @@
-**Er for øyeblikket under utvikling, ETA midten av April 2020.**
+**Er for øyeblikket under utvikling, ETA slutten av sommer 2020.**
 
 FriFaktura er et fritt faktureringprogram for små og mellomstore bedrifter, lag og organisasjoner. Laget for norske forhold og bygd på norsk teknologi. Tilgjengelig for Windows, macOS og Linux.
 
